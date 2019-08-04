@@ -1,0 +1,15 @@
+#rofi config
+
+rofi.lines: 3
+rofi.font: System San Francsico Display 18
+rofi.eh: 2
+rofi.width: 100
+rofi.padding: 800
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.opacity: 85%
+
+rofi.color-window: #cf080C10, #cf080C10, #cf080C10
+rofi.color-normal: #00080C10, #d3d4da, #00080C10, #00080C10, #5294E2
+rofi.color-active: #00080C10, #d3d4da, #00080C10, #00080C10, #5294E2
+rofi.color-urgent: #00080C10, #d3d4da, #00080C10, #00080C10, #5294E2
