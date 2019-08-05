@@ -1,0 +1,24 @@
+wallpaper: "/home/kevin/UI/Wallpapers/BFR.jpg"
+
+special:
+    background: "#080C10"
+    foreground: "#d3d4da"
+    cursor: "#d3d4da"
+
+colors:
+    color0: "#080C10"
+    color1: "#344B63"
+    color2: "#515E6D"
+    color3: "#3C6583"
+    color4: "#587289"
+    color5: "#788597"
+    color6: "#9BA0AA"
+    color7: "#d3d4da"
+    color8: "#939498"
+    color9: "#344B63"
+    color10: "#515E6D"
+    color11: "#3C6583"
+    color12: "#587289"
+    color13: "#788597"
+    color14: "#9BA0AA"
+    color15: "#d3d4da"
