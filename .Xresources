@@ -1,0 +1,13 @@
+Xft.dpi:	96
+Xft.antialias:	true
+Xft.rgba:	rgb
+
+urxvt*transparent: true
+urxvt*shading: 30
+#URxvt*font: 9x15
+
+URxvt.scrollBar: false
+
+#URxvt.letterSpace: -1
+URxvt.font: xft:xos4 Terminus:size=12
+
